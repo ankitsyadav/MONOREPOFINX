@@ -37,7 +37,7 @@ export default function MainLayout() {
       <Box sx={{ px: 3, py: 2.5, display: 'flex', alignItems: 'center', gap: 1.5 }}>
         <WhatsAppIcon sx={{ color: 'primary.main', fontSize: 32 }} />
         <Typography variant="h6" sx={{ fontWeight: 700, color: 'primary.main' }}>
-          WA Manager
+          WA Campaign Manager
         </Typography>
       </Box>
       <Divider />
